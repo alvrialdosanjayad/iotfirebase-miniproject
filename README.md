@@ -7,7 +7,7 @@
 
 #### Kebutuhan Hardware
 
-* nodeMCU-32S
+* nodeMCU-ESP32
 * Sensor: 
   * 1x HC-SR04 Ultrasonic (sensor jarak) 
   * 1x LDR (sensor cahaya)
